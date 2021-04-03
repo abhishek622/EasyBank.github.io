@@ -10,7 +10,7 @@
 
   &__images {
     position: relative;
-    background-image: url("/images/bg-intro-mobile.svg");
+    background-image: url(https://raw.githubusercontent.com/abhishek622/EasyBank.github.io/7beb81aecd878fea519369f4583162a5cea61142/images/bg-intro-mobile.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -33,7 +33,7 @@
         content: "";
         position: absolute;
         height: 100%;
-        background-image: url("/images/bg-intro-desktop.svg");
+        background-image: url(https://raw.githubusercontent.com/abhishek622/EasyBank.github.io/7beb81aecd878fea519369f4583162a5cea61142/images/bg-intro-desktop.svg);
         width: 150%;
         background-size: 122%;
         background-repeat: no-repeat;
@@ -46,7 +46,7 @@
       position: absolute;
       width: 100%;
       height: 100%;
-      background-image: url("/images/image-mockups.png");
+      background-image: url(https://github.com/abhishek622/EasyBank.github.io/blob/main/images/image-mockups.png?raw=true);
       background-size: 93%;
       background-repeat: no-repeat;
       background-position: center bottom;
